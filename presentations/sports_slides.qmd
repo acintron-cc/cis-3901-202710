@@ -2,9 +2,8 @@
 title: "Sports Data: your title here"
 author: "Your Name"
 format: revealjs
+# The oral presentation (Fri, Dec 4) is about 7 minutes: plan about 1 minute per slide.
 ---
-
-<!-- The oral presentation (Fri, Dec 4) is about 7 minutes: plan about 1 minute per slide. -->
 
 ## Question
 
