@@ -10,7 +10,8 @@ library(tidyverse)
 # my_file <- read_csv("data/sports/your_file.csv")
 
 # ---- Your tidying steps here (melt, separate, cast, normalize, join, stack) ----
-# Drop columns with private individuals' names (e.g. runners' names, bib numbers).
+# Your SCORE file can stay as downloaded, names included. Never use a name, bib,
+# team or judge column in a plot, a table or a slide.
 # Check row counts before and after each step, and finish with stopifnot() checks.
 
 # ---- Write --------------------------------------------------------------------
